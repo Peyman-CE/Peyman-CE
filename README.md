@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+clean%2C+responsive+UIs)](https://github.com/Peyman-CE)
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Peyman-CE&style=for-the-badge&color=2C5364&label=Profile+Views" />
+
 
 </div>
 
