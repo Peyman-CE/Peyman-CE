@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31345760/README.md)
+[README.md](https://github.com/user-attachments/files/31346598/README.md)
 <div align="center">
 
 **👋 Peyman Amirmahani**
@@ -6,11 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+clean%2C+responsive+UIs)](https://github.com/Peyman-CE)
 <br>
 
-
-
 </div>
 
-<br>
 
 <details open>
   <summary align="center">
@@ -77,10 +74,10 @@ const peyman = {
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Peyman-CE&show_icons=true&theme=default&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=333333" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Peyman-CE&hide_border=true&background=FFFFFF&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" width="48%" alt="GitHub Streak"/>
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
+<img src="./profile/streak.svg" width="48%" alt="GitHub Streak"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peyman-CE&layout=compact&hide_border=true&title_color=2C5364&text_color=333333" width="48%" alt="Top Languages"/>
+<img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
 </div>
 
 <br><br>
@@ -89,11 +86,11 @@ const peyman = {
 
 <div align="center">
 
-[![Property Pulse](https://github-readme-stats.vercel.app/api/pin/?username=Peyman-CE&repo=Property_Pulse_Nextjs&theme=default&hide_border=true&title_color=2C5364)](https://github.com/Peyman-CE/Property_Pulse_Nextjs)
-[![Tweeter Demo](https://github-readme-stats.vercel.app/api/pin/?username=Soroush-Eghdami&repo=Tweeter_Demo&theme=default&hide_border=true&title_color=2C5364&show_owner=true)](https://github.com/Soroush-Eghdami/Tweeter_Demo)
+[![Property Pulse](./profile/pin-property-pulse.svg)](https://github.com/Peyman-CE/Property_Pulse_Nextjs)
+[![Tweeter Demo](./profile/pin-tweeter-demo.svg)](https://github.com/Soroush-Eghdami/Tweeter_Demo)
 <br>
-[![Socially App](https://github-readme-stats.vercel.app/api/pin/?username=mahzadkhosraviani&repo=socially-app-project&theme=default&hide_border=true&title_color=2C5364&show_owner=true)](https://github.com/mahzadkhosraviani/socially-app-project)
-[![Quera Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=NastaranAd83&repo=Quera-task-manager&theme=default&hide_border=true&title_color=2C5364&show_owner=true)](https://github.com/NastaranAd83/Quera-task-manager)
+[![Socially App](./profile/pin-socially-app.svg)](https://github.com/mahzadkhosraviani/socially-app-project)
+[![Quera Task Manager](./profile/pin-quera-task-manager.svg)](https://github.com/NastaranAd83/Quera-task-manager)
 
 </div>
 
