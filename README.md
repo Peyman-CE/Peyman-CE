@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31346598/README.md)
+[README.md](https://github.com/user-attachments/files/31346884/README.md)
 <div align="center">
 
 **👋 Peyman Amirmahani**
@@ -78,20 +78,6 @@ const peyman = {
 <img src="./profile/streak.svg" width="48%" alt="GitHub Streak"/>
 <br>
 <img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
-</div>
-
-<br><br>
-
-<h1 align="center">📌 Featured Projects</h1>
-
-<div align="center">
-
-[![Property Pulse](./profile/pin-property-pulse.svg)](https://github.com/Peyman-CE/Property_Pulse_Nextjs)
-[![Tweeter Demo](./profile/pin-tweeter-demo.svg)](https://github.com/Soroush-Eghdami/Tweeter_Demo)
-<br>
-[![Socially App](./profile/pin-socially-app.svg)](https://github.com/mahzadkhosraviani/socially-app-project)
-[![Quera Task Manager](./profile/pin-quera-task-manager.svg)](https://github.com/NastaranAd83/Quera-task-manager)
-
 </div>
 
 <br><br>
