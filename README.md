@@ -40,7 +40,7 @@ const peyman = {
 - 🚀 Built real-world apps including a property-listing platform, a Twitter clone, and a task manager
 - 🤝 Always open to collaborating on well-designed, thoughtfully engineered projects
 
-<br>
+<br><br>
 
 <h1 align="center">🛠️ Tech Stack</h1>
 
